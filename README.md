@@ -33,8 +33,8 @@ Project image in desktop and mobile view
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Ferperezm28/product-preview)
+- Live Site URL: [Netlify](https://productpreviewferp.netlify.app/)
 
 ## My process
 
